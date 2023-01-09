@@ -1,0 +1,27 @@
+@import url("https://maritimeocean41.github.io/fonts/main.css");
+* {
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url("bolo.png");
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+a {
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 0;
+  width: 100vw;
+  color: #fff;
+  font-weight: 600;
+  font-size: 10em;
+  text-align: center;
+  transform: translate(0, -50%);
+}/*# sourceMappingURL=style.css.map */
